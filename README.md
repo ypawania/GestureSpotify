@@ -3,7 +3,7 @@ Control your music using gestures.
 
 4 types of gestures can be used to resume, pause, skip and rewind music. 
 
-A custom algoritm detects gestures converts distance-time measurements from the ultrasonic sensor to read them as gestures. The gestures can be at abritrary distance from the sensor, and an arbtirary speed, as long as they're the right action. 
+A custom algoritm detects gestures by converting distance-time measurements from two orthagonally placed ultrasonic sensors. The gestures can be at abritrary distances from the sensors, at arbtirary speeds, as long as they're the right action. 
 
 The mode can be changed so gestures can be used for different actions, such as changing the music volume instead.
 
